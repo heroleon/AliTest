@@ -1,0 +1,2394 @@
+[
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_bar_blue_color.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/bar_blue_color.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_back_seekbar_bg.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/back_seekbar_bg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_leak_canary_icon.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/drawable-mdpi-v4/leak_canary_icon.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_icon_qr_create.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/icon_qr_create.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_pinterest.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_performance_log.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/performance_log.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_tumblr.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color-v21_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color-v21/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_evernote.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_instapaper.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_music.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/push_music.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_country_clear_search.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_country_clear_search.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bced57eabb0548d64489f59e5535fc45/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_kakaotalk.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_background_rect.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/live-pusher-resources-3.3.7.aar/c1cf02d470f63aa540c23f6aaabf3522/res/drawable/background_rect.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_camera_flash_close.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/camera_flash_close.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_aliyun_beauty_seekbar.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/aliyun_beauty_seekbar.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_alivc_beauty_seekbar_front_thumb_bg.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/alivc_beauty_seekbar_front_thumb_bg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_text_log.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/push_text_log.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_camera_flash_on.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/camera_flash_on.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_track_off.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/track_off.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_tencentweibo.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_bar_green_color.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/bar_green_color.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_beauty.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable-xhdpi-v4/icon_beauty.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_whitening.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable-xhdpi-v4/icon_whitening.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_ruddy.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable-xhdpi-v4/icon_ruddy.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_qzone.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_alivc_beauty_default_bt_selector.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/alivc_beauty_default_bt_selector.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_edit_round_rect_focused.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/edit_round_rect_focused.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_shape_rect_gray.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/shape_rect_gray.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_laiwang.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_bg_oval.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/bg_oval.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_record_view_small.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/record_view_small.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_beauty_on.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/beauty_on.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_leak_canary_ref_top_row.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/layout/leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v11_leak_canary_notification.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/drawable-xhdpi-v11/leak_canary_notification.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_short_jaw.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable-xhdpi-v4/icon_short_jaw.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_diagram_log.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/push_diagram_log.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_dingding.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_dingding.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_shape_oval_black.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/live-pusher-resources-3.3.7.aar/c1cf02d470f63aa540c23f6aaabf3522/res/drawable/shape_oval_black.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_bar_black_color.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/bar_black_color.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_track_on.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/track_on.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_yixin.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_line.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_go.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/go.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_buffing.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable-xhdpi-v4/icon_buffing.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/app/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_isb_indicator_square_corners.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/isb_indicator_square_corners.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_pocket.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_leak_canary_icon.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/drawable-hdpi-v4/leak_canary_icon.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_aliyun_beauty_adjustment_view_layout.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/aliyun_beauty_adjustment_view_layout.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_anim_trans_from_bottom.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/anim/anim_trans_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_sinaweibo.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_vkontakte.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_record_camera_preview.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/record_camera_preview.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_status_log.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/live-pusher-resources-3.3.7.aar/c1cf02d470f63aa540c23f6aaabf3522/res/layout/push_status_log.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_douban.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_alivc_push_beauty_layout.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/alivc_push_beauty_layout.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_hint_foreground_material_light.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_country_sharesdk_icon.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_country_sharesdk_icon.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_thin_face.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable-xhdpi-v4/icon_thin_face.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_yixinmoments.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_debug_view_small.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/live-pusher-resources-3.3.7.aar/c1cf02d470f63aa540c23f6aaabf3522/res/layout/debug_view_small.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_weibo_common_shadow_top.9.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_weibo_common_shadow_top.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_setting.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/push_setting.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color-v23_abc_tint_switch_track.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_line.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/line.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_edit_round_rect_unfocused.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/edit_round_rect_unfocused.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_tooltip_enter.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_aliyun_beauty_detail.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/aliyun_beauty_detail.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_qr.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/qr.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_shape_rect_black.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/live-pusher-resources-3.3.7.aar/c1cf02d470f63aa540c23f6aaabf3522/res/drawable/shape_rect_black.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_checkpink.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable-xhdpi-v4/icon_checkpink.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_music.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/music.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_alivc_beauty_default_bt_selected_bg.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/alivc_beauty_default_bt_selected_bg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_shape_rect_white.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/shape_rect_white.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v11_leak_canary_notification.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/drawable-mdpi-v11/leak_canary_notification.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/app/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_facebook.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_leak_canary_icon.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/drawable-xxxhdpi-v4/leak_canary_icon.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_tooltip_exit.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_button_selector.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/button_selector.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_beauty_detail.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable-xhdpi-v4/icon_beauty_detail.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_tint_default.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bced57eabb0548d64489f59e5535fc45/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_leak_canary_ref_row.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/layout/leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_back.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/back.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bced57eabb0548d64489f59e5535fc45/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_beauty.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/push_beauty.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_beauty_seekbar_bg.9.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable-xhdpi-v4/beauty_seekbar_bg.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_video_recording_setting.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/video_recording_setting.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bced57eabb0548d64489f59e5535fc45/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_email.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_background_oval.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/live-pusher-resources-3.3.7.aar/c1cf02d470f63aa540c23f6aaabf3522/res/drawable/background_oval.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_alivc_push_beauty_seekbar.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/alivc_push_beauty_seekbar.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_shortmessage.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_weibo_empty_failed.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_weibo_empty_failed.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_thumb.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/thumb.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_edit_round_bkg.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/edit_round_bkg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bced57eabb0548d64489f59e5535fc45/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-watch-v20_abc_dialog_material_background.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-watch-v20/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_wechatfavorite.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_fragment.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/push_fragment.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_check_default.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_push_back_seekbar_bg.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/push_back_seekbar_bg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v11_leak_canary_notification.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/drawable-hdpi-v11/leak_canary_notification.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v11_leak_canary_notification.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/drawable-xxxhdpi-v11/leak_canary_notification.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bced57eabb0548d64489f59e5535fc45/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_qr_create.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/push_qr_create.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_debug_view_big.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/live-pusher-resources-3.3.7.aar/c1cf02d470f63aa540c23f6aaabf3522/res/layout/debug_view_big.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_alivc_push_beauty_detail_rtc.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/alivc_push_beauty_detail_rtc.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_shape_rect_blue.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/shape_rect_blue.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_leak_canary_icon.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/drawable-xxhdpi-v4/leak_canary_icon.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_linkedin.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_chart_log.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/live-pusher-resources-3.3.7.aar/c1cf02d470f63aa540c23f6aaabf3522/res/layout/push_chart_log.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_kaixin.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_activity_license.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/activity_license.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_bluetooth.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_alipaymoments.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_alipaymoments.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_kakaostory.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/app/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_setting_param.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/push_setting_param.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_act_live_push_creater.xml.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/layout/act_live_push_creater.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bced57eabb0548d64489f59e5535fc45/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_wechatmoments.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_shap_oval_gray.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/shap_oval_gray.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_alivc_push_beauty_detail.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/alivc_push_beauty_detail.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_loop_icons.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/loop_icons.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_right_shape_selector.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/right_shape_selector.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_check_checked.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_question_item_info.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/question_item_info.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-v21_abc_list_divider_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_laiwangmoments.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_layout_advance_setting.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/layout_advance_setting.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_whatsapp.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_country_search_icon.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_country_search_icon.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_btn_colored_text_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_leak_canary_display_leak.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/layout/leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_meipai.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_meipai.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_wechat.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-v21_abc_dialog_material_background.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_answer.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/push_answer.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_beauty_off.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/beauty_off.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_logo.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_logo.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_bar_yellow_color.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/bar_yellow_color.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_alivc_beauty_default_bt_bg.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/alivc_beauty_default_bt_bg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_alivc_beauty_seekbar_bg.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/alivc_beauty_seekbar_bg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_leak_canary_heap_dump_toast.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/layout/leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_youdao.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_anim_layout_bottom_out.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/anim/anim_layout_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_track.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/track.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_watermark.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/push_watermark.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_twitter.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_thumb_on.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/thumb_on.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/app/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_alipay.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v11_leak_canary_notification.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/drawable-xxhdpi-v11/leak_canary_notification.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_camera_id.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/camera_id.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bced57eabb0548d64489f59e5535fc45/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_country_back_arrow.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_country_back_arrow.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_alivc_push_isb_indicator.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/alivc_push_isb_indicator.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_auth_title_back.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/app/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_alivc_beauty_seekbar_back_thumb_bg.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/alivc_beauty_seekbar_back_thumb_bg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_googleplus.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_qq.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_music_check.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/music_check.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_foursquare.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_isb_indicator_rounded_corners.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/isb_indicator_rounded_corners.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_tooltip_frame_light.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_ssdk_oks_classic_progressbar.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_music_item_info.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/music_item_info.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_reset.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable-xhdpi-v4/icon_reset.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_thumb_off.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/thumb_off.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_activity_live_camera.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/activity_live_camera.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/app/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_youtube.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_youtube.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-mdpi-v4_icon_back.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/mipmap-mdpi-v4/icon_back.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_leak_canary_leak_row.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/layout/leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_aliyun_beauty_detail_rtc.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/aliyun_beauty_detail_rtc.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_leak_canary_toast_background.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/drawable/leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_back_arr.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_back_arr.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_alivc_push_beauty_seekbar_back_thumb_bg.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable/alivc_push_beauty_seekbar_back_thumb_bg.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_push_more.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/push_more.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_list_divider_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_input_bg_focus.9.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_input_bg_focus.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bced57eabb0548d64489f59e5535fc45/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_instagram.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_leak_canary_icon.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/drawable-xhdpi-v4/leak_canary_icon.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_bar_red_color.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/bar_red_color.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_title_div.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_title_div.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxhdpi-v4_icon_qr_create.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/icon_qr_create.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_layout_item_log_info.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/layout_item_log_info.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_dropbox.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_activity_push.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/activity_push.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_country_cl_divider.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_country_cl_divider.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_tint_spinner.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_aliyun_isb_indicator.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/aliyun_isb_indicator.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_renren.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_middle_shape_selector.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/middle_shape_selector.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_beauty_selector.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/beauty_selector.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_big_eye.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/drawable-xhdpi-v4/icon_big_eye.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_flash_selector.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/flash_selector.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_second_main.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/second_main.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_left_shape_selector.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/left_shape_selector.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_shape_button_rect.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/shape_button_rect.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ic_qrcode.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_qrcode.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_ssdk_oks_classic_platform_cell_back.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_flickr.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/app/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_list_item_comment.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/list_item_comment.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_facebookmessenger.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kb/AliTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_aliyun_beauty_default.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_core/intermediates/packaged_res/debug/layout/aliyun_beauty_default.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/mipmap-xhdpi-v4_ssdk_oks_classic_mingdao.png.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable_shap_gradient.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/drawable/shap_gradient.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/layout_demo_activity.xml.flat",
+        "source": "/Users/kb/AliTest/gradle-build/AliyunPusher/pusher_demo/intermediates/packaged_res/debug/layout/demo_activity.xml"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/150cabf91360cc8c2d62adffa4964e5c/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/kb/AliTest/gradle-build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e85252f3cde142c2b1a3aa1daedfc588/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    }
+]

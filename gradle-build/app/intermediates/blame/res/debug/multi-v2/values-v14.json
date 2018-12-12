@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kb/AliTest/gradle-build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/kb/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.aar/6da99d8132976a93a123c36fa687423e/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "136"
+                    }
+                }
+            ]
+        }
+    ]
+}

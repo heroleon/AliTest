@@ -1,0 +1,5 @@
+include ':app', ':AlivcCore'
+include ':Aliyunplayer:AlivcPlayer'
+include ':Aliyunplayer:AlivcReporter'
+include ':AliyunPusher:pusher_core'
+include ':AliyunPusher:pusher_demo'

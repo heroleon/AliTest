@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/kb/work/阿里云/ApsaraVideo_Pusher_v3.3.7_Android_20181026/demo/AliyunPusher/pusher_core/src/main/assets"/><source path="/Users/kb/work/阿里云/ApsaraVideo_Pusher_v3.3.7_Android_20181026/demo/gradle-build/AliyunPusher/pusher_core/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/kb/work/阿里云/ApsaraVideo_Pusher_v3.3.7_Android_20181026/demo/AliyunPusher/pusher_core/src/debug/assets"/></dataSet></merger>
